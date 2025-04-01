@@ -1,6 +1,6 @@
 # Plantilla projecte Java amb Maven DAM2-MP06 #
 
-![maven workflow](https://github.com/pablovr05/PROXMOX/actions/workflows/maven.yml/badge.svg)
+![maven workflow](https://github.com/pablovr05/PROXMOX/actions/workflows/maven.yml/bdge.svg)
 
 ## Arrencada ràpida ##
 Execució ràpida dels diferents exemples i resolusions de problemes
